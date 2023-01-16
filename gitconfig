@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = francisco-abf@hotmail.com
+	name = Francisco Figueiredo
